@@ -59,11 +59,11 @@ Print every number on the same line
 
 Use a while loop instead!
 
+## 💁‍♂️ Here are my other related projects.
 
+- https://github.com/Fahim-Dot-Com/MyFirstC-
 
-
-
-
+- https://github.com/Fahim-Dot-Com/TryingImplicitCasing
 
 
 
